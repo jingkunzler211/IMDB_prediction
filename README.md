@@ -6,7 +6,7 @@
 ## PART 0: DATA PREPROCESSING
 
 * Check notebook "Pre-processing"
-* written transformed df to csv (version 1)
+* written transformed df to csv (version 1: clean_imdb.csv, not final)
 
 ## PART 1: EDA, VISUALIZATION & MISC DATA TRANSFORMATION
 
