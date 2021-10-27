@@ -1,4 +1,4 @@
-# IMDB_prediction
+# IMDB_prediction by Jing Kunzler
 
 ## Original data source
 * https://github.com/sundeepblue/movie_rating_prediction
@@ -31,5 +31,3 @@
     * SGD Regressor (*Worst*)
     * Random Forest (*Best*)
     * Gradient Boosting Regressor (*Runner up*)
-
-## PART 3 (tbc): UNSUPERVISED LEARNING
