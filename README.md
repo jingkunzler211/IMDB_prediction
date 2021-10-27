@@ -16,13 +16,13 @@
 ## PART 2: FEATURE ENGINEERING & REGRESSION MODELING
 
 * Feature selection & engineering 
-*   Dummie variable
-*   Normalization
+    * Dummie variable
+    * Normalization
 
 * Algorithms
-*   KNN
-*   SGD Regressor
-*   Random Forest
-*   Gradient Boosting Regressor
+    * KNN
+    * SGD Regressor
+    * Random Forest
+    * Gradient Boosting Regressor
 
 ## PART 3 (tbc): UNSUPERVISED LEARNING
