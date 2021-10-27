@@ -19,7 +19,7 @@
     * Dummie variable
     * Normalization
 
-* Algorithms
+* Algorithms (*evaluator = mean squared error*)
     * KNN (*Okay*)
     * SGD Regressor (*Worst*)
     * Random Forest (*Best*)
