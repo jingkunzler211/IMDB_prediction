@@ -20,9 +20,9 @@
     * Normalization
 
 * Algorithms
-    * KNN (*Okay)
-    * SGD Regressor (*Worst)
-    * Random Forest (*Best)
-    * Gradient Boosting Regressor (*Runner up)
+    * KNN (*Okay*)
+    * SGD Regressor (*Worst*)
+    * Random Forest (*Best*)
+    * Gradient Boosting Regressor (*Runner up*)
 
 ## PART 3 (tbc): UNSUPERVISED LEARNING
