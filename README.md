@@ -31,3 +31,5 @@
     * SGD Regressor (*Worst*)
     * Random Forest (*Best*)
     * Gradient Boosting Regressor (*Runner up*)
+
+* Feature Importance with the best model (RF)
