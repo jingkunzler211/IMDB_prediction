@@ -15,7 +15,7 @@
 
 ## PART 1: EDA, VISUALIZATION & MISC DATA TRANSFORMATION
 
-* Check notebook "EDA & Visualization"
+* Check notebook "EDA"
 * written further transformed df to csv (final version): check clean_imdb_2.csv
 
 ## PART 2: FEATURE ENGINEERING & REGRESSION MODELING
